@@ -1,7 +1,7 @@
 # Site settings
 title: PHOTORAMA
 email: ""
-description: "Photo Journal"
+description: "Photorama Gallery"
 url: "https://skoenig.github.io"
 baseurl: "/photorama"
 facebook_username: ""
@@ -34,7 +34,6 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://skoenig.github.io/photorama/gallery/"
-  - JOURNAL: "https://skoenig.github.io/photorama/journal/"
   - ABOUT: "https://skoenig.github.io/photorama/about/"
 
 # All translation keys
